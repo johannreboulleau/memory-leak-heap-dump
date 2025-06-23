@@ -17,4 +17,8 @@ JVM arguments:
 
 ![jvisualvm-heap-dump-objects.png](images/jvisualvm-heap-dump-objects.png)
 
+### Memory Analyzer (MAT)
 
+![mat.png](images/mat.png)
+
+https://eclipse.dev/mat/download/ 
